@@ -10,16 +10,6 @@ java DemoEj2
 java DemoEj14
 ```
 
-## Checklist del TP
-- [x] Implementación de clases con atributos solicitados por ejercicio.
-- [x] Relaciones 1 a 1 correctas (asociación / agregación / composición / dependencias).
-- [x] Dirección indicada (uni/bidireccional) respetada en el código.
-- [x] Clase `DemoEjX` por ejercicio para mostrar instanciación y vinculación.
-- [ ] Diagramas UML (requeridos por el enunciado). **Incluyo abajo _Mermaid_** para que puedas pegarlo en https://mermaid.live o VSCode y exportar a PNG/PDF.
-- [ ] Documento breve con tabla “Ejercicio — Tipo de relación — Dirección” (podés copiar la tabla inferior).
-
-> Nota: si el profe exige paquetes (`package`) o nombres exactos de clases, avisame y lo adapto.
-
 ## Tabla resumen
 | Ejercicio | Relación principal | Dirección |
 |---|---|---|
